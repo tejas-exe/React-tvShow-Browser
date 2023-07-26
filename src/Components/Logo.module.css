@@ -1,0 +1,19 @@
+.logoContainer {
+  display: flex;
+  align-items: center;
+}
+.imge {
+  height: 40px;
+  width: 40px;
+}
+.tittle {
+  font-size: 25px;
+  font-weight: 400;
+  padding-top: 5px;
+  padding-left: 5px;
+}
+
+.sub{
+margin-left: 5px;
+white-space: nowrap;
+}
